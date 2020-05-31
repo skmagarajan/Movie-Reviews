@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Proj2</string>
+    <string name="joker">Joker</string>
+    <string-array name="movie_name">
+        <item>Joker</item>
+        <item>Parasite</item>
+        <item>The Irishman</item>
+        <item>Gifted</item>
+        <item>Black Panther</item>
+        <item>The Revenant</item>
+    </string-array>
+
+    <string-array name="year_released">
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2015</item>
+    </string-array>
+
+    <string-array name="imdb_links">
+        <item>https://www.imdb.com/title/tt7286456/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt6751668/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt1302006/</item>
+        <item>https://www.imdb.com/title/tt4481414/?ref_=ttls_li_tt</item>
+        <item>https://www.imdb.com/title/tt1825683/?ref_=ttls_li_tt</item>
+        <item>https://www.imdb.com/title/tt1663202/</item>
+    </string-array>
+
+    <string-array name="youtube_links">
+        <item>https://www.youtube.com/watch?v=zAGVQLHvwOY</item>
+        <item>https://www.youtube.com/watch?v=5xH0HfJHsaY</item>
+        <item>https://www.youtube.com/watch?v=WHXxVmeGQUc</item>
+        <item>https://www.youtube.com/watch?v=tI01wBXGHUs</item>
+        <item>https://www.youtube.com/watch?v=xjDjIWPwcPU</item>
+        <item>https://www.youtube.com/watch?v=QRfj1VCg16Y</item>
+    </string-array>
+
+    <string-array name="wiki_links">
+        <item>https://en.wikipedia.org/wiki/Todd_Phillips</item>
+        <item>https://en.wikipedia.org/wiki/Bong_Joon-ho</item>
+        <item>https://en.wikipedia.org/wiki/Martin_Scorsese</item>
+        <item>https://en.wikipedia.org/wiki/Marc_Webb</item>
+        <item>https://en.wikipedia.org/wiki/Ryan_Coogler</item>
+        <item>https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu</item>
+    </string-array>
+</resources>
